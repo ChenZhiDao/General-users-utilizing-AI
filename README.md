@@ -22,6 +22,10 @@
 
 - [**Hermes Agent 上手指南（Windows 桌面版）**](Harmes-Agent/hermes-quickstart-zh.md)
   —— 一个能真正动手干活的 AI 助手怎么用：四个入口、五个核心概念、10 个跟练、提示词模板、排障速查表。
+- [**Obsidian 使用指南**](Obsidian/Obsidian使用指南.md)
+  —— 16 章分步教程，每步带示例：建仓库、Markdown、双向链接、标签属性、日记模板、Canvas、Dataview、多设备同步、快捷键总表。
+- [**连接 Hermes Agent 的方式**](Obsidian/连接HarmesAgent方式.md)
+  —— 让 AI 直接读写你的 Obsidian 库：安装、配置模型、把仓库路径告诉它，以及另外两种连接形态。
 
 ## 一句话总结
 
