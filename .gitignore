@@ -1,0 +1,14 @@
+# 插件二进制（各设备自行安装，体积可达数十 MB，不入库）
+.obsidian/plugins/
+
+# Obsidian 本机状态（每台设备不同）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 回收站与系统文件
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
